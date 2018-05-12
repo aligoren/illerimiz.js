@@ -2,6 +2,12 @@
 
 İlleri JSON formatında veren bir kütüphane.
 
+# Kurulum
+
+```bash
+npm install --save-dev illerimiz
+```
+
 # Kullanım
 
 **Plakaya Göre**
